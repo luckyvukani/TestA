@@ -7,6 +7,7 @@ public class TestClass extends Drivers{
         //Login
         me.getElement();
         // check comment
+        //check_second_commit
         //page after Login
         //me.shopping();
     }
